@@ -1,0 +1,6 @@
+--ignore-file=match:cscope*
+--ignore-file=match:tags
+--ignore-dir=thirdparty
+--ignore-dir=CMake*
+--ignore-dir=thirdparty
+--ignore-dir=build

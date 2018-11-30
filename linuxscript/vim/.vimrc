@@ -96,7 +96,6 @@ endfunc
 
 set pastetoggle=<F10>
 let g:ackprg = 'ag --nogroup --nocolor --column'                                                                                         
-"let g:ackprg = 'ack --nogroup --nocolor --column'                                                                                         
 let g:ackhighlight = 1
 map <c-u> :Ack<space>
 map <F5> :set invlist<CR>
