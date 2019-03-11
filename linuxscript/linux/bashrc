@@ -82,6 +82,8 @@ alias ll='ls -alF'
 alias la='ls -A'
 alias l='ls -CF'
 alias ptags='find  . -name \*.py -print | xargs /usr/bin/ptags.py'
+alias gits='git status -uno'
+alias cs='sh -x ~/myshell/cs.sh'
 
 # Alias definitions.
 # You may want to put all your additions into a separate file like
