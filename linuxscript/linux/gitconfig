@@ -1,0 +1,11 @@
+
+[core]
+	excludesfile = /root/.gitignore_codenvy
+	editor = vim
+[http]
+    sslVerify = false
+[https]
+    sslVerify = false
+[user]
+	email = kuangpeiyu1@163.com
+	name = kpy
